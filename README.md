@@ -2,5 +2,5 @@
 Custom Radio Buttons with xml
 
 
-![Screenshot](https://github.com/kaplanerkan/CustomRadioButtonsXml/blob/main/custom_radio_buttons.jpgg)
+![Screenshot](https://github.com/kaplanerkan/CustomRadioButtonsXml/blob/main/custom_radio_buttons.jpg)
 
