@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomRadioButtons</string>
+    <string name="z_m">Üzüm</string>
+    <string name="armut">Armut</string>
+    <string name="elma">Elma</string>
+    <string name="kiraz">Kiraz</string>
+    <string name="muz">Muz</string>
+</resources>
